@@ -1,4 +1,4 @@
-<p>Baikal Giant G28</p>
+<p><h2>Baikal Giant G28></h2></p>
 
 <p>OrangePI Zero Image</p>
 <p>google : https://drive.google.com/open?id=1i0iIPK_cxnULaJ7Xaqg1Z-gHJp87-dtX </p>
